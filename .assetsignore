@@ -1,0 +1,10 @@
+maintenance/**
+source/**
+tests/**
+data/**
+docs/**
+*.py
+*.mjs
+*.xlsx
+*.ndjson
+node_modules/**
